@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.8",
+    "axios": "^1.7.2",
+    "elysia": "^1.0.25",
+    "express": "^4.19.2",
+    "markdown-it": "^14.1.0",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "@types/markdown-it": "^14.1.1",
+    "@types/multer": "^1.4.11"
+  }
+}
