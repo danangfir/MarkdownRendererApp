@@ -1,5 +1,10 @@
 # Markdown API Talking
 
+<div style="text-align: center;">
+
+![Expense Tracker Api](./image/gambar1.png)
+</div>
+
 Markdown API Talking adalah sebuah proyek API yang dikembangkan menggunakan Elysia dan Express. API ini menyediakan layanan untuk menyimpan dan merender catatan dalam format markdown.
 
 ## Deskripsi Fungsi Penggunaan
