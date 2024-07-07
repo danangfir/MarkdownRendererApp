@@ -1,3 +1,4 @@
+// frontend/tsconfig.json
 {
     "compilerOptions": {
       "target": "ES2020",
@@ -8,9 +9,10 @@
       "forceConsistentCasingInFileNames": true,
       "moduleResolution": "node",
       "resolveJsonModule": true,
+      "jsx": "react-jsx",
       "outDir": "./dist"
     },
-    "include": ["src"]
+    "include": ["src"],
+    "exclude": ["node_modules", "dist"]
   }
-  
   
